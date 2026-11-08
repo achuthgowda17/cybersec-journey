@@ -1,3 +1,4 @@
+My TryHackMe profile:https://tryhackme.com/p/ACHUTHGOWDA.B.M?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=69decef60217&utm_source=copy&share_date=2026-11-08&sharerId=6aee116abea9fc87c73c8da8
 # Week 1 — Setup & Mindset
 
 ## Goal
